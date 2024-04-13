@@ -1,5 +1,7 @@
 ![image-20240412063607704](/home/camper/.config/Typora/typora-user-images/image-20240412063607704.png)
 
+CAMPER: DIEGO ALEJANDRO GALAN MARTINEZ
+
 I)	Inserición de datos
 
  1. ​	INSERT INTO fabricante (codigo, nombre)
